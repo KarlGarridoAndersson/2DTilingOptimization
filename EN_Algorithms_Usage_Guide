@@ -16,7 +16,7 @@ The algorithm is driven through the `CONFIG` dictionary. Changing these values l
 
 ## Function Handling
 
-### 1. Main entry point
+### Main entry point
 The `main()` function orchestrates the generation, the assembly using the three heuristics (H1, H2, H3), and the production of visual reports.
 
 ```python
