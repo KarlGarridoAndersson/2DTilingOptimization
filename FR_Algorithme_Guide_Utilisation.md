@@ -16,7 +16,7 @@ Le pilotage de l'algorithme s'effectue via le dictionnaire `CONFIG`. Modifier ce
 
 ## Manipulation des Fonctions
 
-### 1. Point d'entrée principal
+### Point d'entrée principal
 La fonction `main()` orchestre la génération, l'assemblage selon les trois heuristiques (H1, H2, H3) et la production des rapports visuels.
 
 ```python
